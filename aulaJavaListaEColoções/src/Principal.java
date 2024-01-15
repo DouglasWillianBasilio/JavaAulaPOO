@@ -59,11 +59,6 @@ public class Principal {
         filmeDaMaria.setAnoDeLancamento(2022);
         filmeDaMaria.avalia(10);
 
-        var filmeDaMaria = new Filme();
-        filmeDaMaria.setNome("Filme de basquete");
-        filmeDaMaria.setDuracaoEmMinutos(220);
-        filmeDaMaria.setAnoDeLancamento(2023);
-        filmeDaMaria.avalia(11);
 
         ArrayList<Filme> listaDeFilmes = new ArrayList<>();
         listaDeFilmes.add(filmeDaMaria);
